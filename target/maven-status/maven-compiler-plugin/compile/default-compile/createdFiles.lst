@@ -1,0 +1,8 @@
+com\revature\dao\UserDao.class
+com\revature\services\Connections.class
+com\revature\bean\Users.class
+com\revature\services\Validations.class
+com\revature\servlet\LoginServlet.class
+com\revature\dao\UserDaoImply.class
+com\revature\servlet\UserInfoServlet.class
+com\revature\servlet\LogoutServlet.class
